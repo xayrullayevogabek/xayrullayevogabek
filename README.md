@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=Xayrullayev+Og'abek)](https://git.io/typing-svg)
-============================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=Xayrullayev+Og'abek)](https://git.io/typing-svg)
 
 * 🌍  I'm based in Samarkand
 * 🖥️  See my portfolio at [My Portfolio Website]()
