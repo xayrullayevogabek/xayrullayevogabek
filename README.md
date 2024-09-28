@@ -25,14 +25,4 @@ src="https://img.shields.io/twitter/follow/_khayrullayev_?logo=twitter&style=for
 
 <p align="left"> <a href="https://www.github.com/khayrullayev2006" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/khayrullayev.coder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_khayrullayev_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### GitHub Status
-
-
- <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xayrullayevogabek&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xayrullayevogabek&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xayrullayevogabek&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xayrullayevogabek&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xayrullayevogabek&theme=dark&utcOffset=8" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-</div>
 
